@@ -1,7 +1,7 @@
 # INFO-GEMPA
 INFO GEMPA terkini langsung dari BMKG
 
-# USAGE
+# USE
 
 $ https://github.com/mrxnexsus/INFO-GEMPA.git
 
